@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShortcutsExample</string>
+    <string name="update_shortcuts">Update shortcuts</string>
+</resources>
